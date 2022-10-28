@@ -8,7 +8,7 @@
 int main(void)
 {
 	int n, value, c, sum = 0;
-	
+
 	printf("Please enter the number of times to add\n");
 	scanf("%d", &n);
 

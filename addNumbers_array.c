@@ -20,6 +20,6 @@ int main(void)
 		sum += arr[c];
 	}
 	printf("The sum of entered number will be: %d\n", sum);
-	return(0);
+	return (0);
 }
 
