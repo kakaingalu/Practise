@@ -6,7 +6,7 @@ This folder contain practising or test codes
 # Table of contents
 Files | Description
 ------|------------
-[ASCII_Value](./ASCII_Value) | prints ASCII value of characters.
+[ASCII_Value.c](./ASCII_Value.c) | prints ASCII value of characters.
 
 
 # Author
