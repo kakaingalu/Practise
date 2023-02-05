@@ -24,6 +24,7 @@ Files | Description
 [buf](./buf) Prints inputed data from buffer
 [rec](./rec) | recursion
 [rec2](./rec2) | recursion
+[str](./str) | concatenates string
 # Author
 Joseph Kakai
 
