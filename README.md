@@ -22,6 +22,8 @@ Files | Description
 [addrec2.c](./addrec2.c) | Adds two digits through recursion
 [buf.c](./buf.c) | Prints inputed data from buffer 
 [buf](./buf) Prints inputed data from buffer
+[rec](./rec) | recursion
+
 # Author
 Joseph Kakai
 
