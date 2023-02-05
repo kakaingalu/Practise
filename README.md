@@ -17,6 +17,8 @@ Files | Description
 [testPro.c](./testPro.c) | Adds numbers using array.
 [addPtr](./addPtr) Adds pointers
 [addPtr.c](./addPtr.c)  Adds pointers 
+[addRec.c](./addRec.c) | Adds two digits using recursion
+
 # Author
 Joseph Kakai
 
