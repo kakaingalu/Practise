@@ -25,6 +25,7 @@ Files | Description
 [rec](./rec) | recursion
 [rec2](./rec2) | recursion
 [str](./str) | concatenates string
+[test](./test) Test work
 # Author
 Joseph Kakai
 
