@@ -23,7 +23,7 @@ Files | Description
 [buf.c](./buf.c) | Prints inputed data from buffer 
 [buf](./buf) Prints inputed data from buffer
 [rec](./rec) | recursion
-
+[rec2](./rec2) | recursion
 # Author
 Joseph Kakai
 
