@@ -15,8 +15,8 @@ Files | Description
 [addDigits](./addDigits) | Adds digits of number but 2 and above.
 [addDigits.c](./addDigits.c) | Adds digits of number but 2 and above.
 [testPro.c](./testPro.c) | Adds numbers using array.
-[addPtr](./addPtr) Adds pointers
-[addPtr.c](./addPtr.c)  Adds pointers 
+[addPtr](./addPtr) | Adds pointers
+[addPtr.c](./addPtr.c) | Adds pointers 
 [addRec.c](./addRec.c) | Adds two digits using recursion
 [addString.c](./addString.c) | concatenates string
 [addrec2.c](./addrec2.c) | Adds two digits through recursion
@@ -26,6 +26,7 @@ Files | Description
 [rec2](./rec2) | recursion
 [str](./str) | concatenates string
 [test](./test) Test work
+
 # Author
 Joseph Kakai
 
