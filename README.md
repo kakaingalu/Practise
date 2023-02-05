@@ -18,7 +18,7 @@ Files | Description
 [addPtr](./addPtr) Adds pointers
 [addPtr.c](./addPtr.c)  Adds pointers 
 [addRec.c](./addRec.c) | Adds two digits using recursion
-
+[addString.c](./addString.c) | concatenates string
 # Author
 Joseph Kakai
 
